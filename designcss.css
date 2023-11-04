@@ -1,0 +1,86 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+body{
+    overflow-x: hidden;
+}
+
+#navbtn:hover{
+
+    background-color: black  !important;
+    color: #FFBF23  !important;
+}
+#logo-text{
+    font-weight: bolder !important;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 25px;
+    margin-top: -45px !important;
+    margin-left: 53px;
+    /* background-color: antiquewhite; */
+}
+#Communicate{
+    background-color: white;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+font-weight: normal;
+font-size: 15px;
+
+/* (margin top or bottom not working) */
+margin-top: 40px !important;  
+margin-left: 55px;
+/* background-color: #FFBF23; */
+position: relative;
+bottom:  47px;
+
+}
+/*  */
+#navitems{
+    position: relative ;
+    bottom: 20px;
+    /* background-color: aqua !important; */
+}
+
+/* SECOND SECTION  */
+#Communicate-Create{
+    font-weight: 400;
+    font-size: 50px;
+}
+#navbtn-communictae:hover{
+    background-color: #FFBF23 !important;
+    color: black !important;
+}
+.iconedit{
+    /* margin-left: 44px; */
+    /* margin-bottom:40px; */
+    position: relative;
+    bottom: 17px;
+    left:45px ;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#Software-great{
+    font-size: 30px;
+}
+.pinkicon-text{
+font-size: 10px;    font-weight: bolder;
+}
+#pink{
+    background-color: #FDA7DF;
+}
+#get-ready{
+    font-weight: 10;
+}
+
+    /* footer section */
+
+#web{
+    background-color: #FFBF23;
+    /* height: 600px; */
+}
+#web-tech{
+    font-family: cursive;
+    font-weight: bolder;
+}
